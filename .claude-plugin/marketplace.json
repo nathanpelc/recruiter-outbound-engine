@@ -1,0 +1,15 @@
+{
+  "name": "recruiter-outbound-engine",
+  "owner": {
+    "name": "nathanpelc"
+  },
+  "description": "Outbound BD skills for recruitment agencies (Blitz API, Google Sheets, Instantly).",
+  "plugins": [
+    {
+      "name": "recruiter-outbound-engine",
+      "source": "./",
+      "description": "Outbound BD for recruitment agencies: daily job-posting leads from Blitz API into Google Sheets, then personalised copy uploaded to Instantly.",
+      "version": "1.0.0"
+    }
+  ]
+}

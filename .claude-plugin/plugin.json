@@ -1,0 +1,9 @@
+{
+  "name": "recruiter-outbound-engine",
+  "version": "1.0.0",
+  "description": "Outbound BD for recruitment agencies: daily job-posting leads from Blitz API into Google Sheets, then personalised copy uploaded to Instantly.",
+  "author": { "name": "nathanpelc" },
+  "repository": "https://github.com/nathanpelc/recruiter-outbound-engine",
+  "license": "MIT",
+  "keywords": ["recruitment", "outbound", "lead-generation", "instantly", "blitz", "google-sheets"]
+}
