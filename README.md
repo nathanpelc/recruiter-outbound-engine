@@ -50,7 +50,7 @@ No git? Unzip `dist/recruiter-outbound-engine.zip` into `~/.claude/skills/` inst
 
 ### Claude.ai / Claude desktop app
 
-Download `recruiter-outbound-engine.skill` from the [latest release](https://github.com/nathanpelc/recruiter-outbound-engine/releases) (or the `dist/` folder), then upload it under **Settings → Capabilities → Skills**. The daily schedule needs a computer that can run Python, so Claude Code is the better fit for Stage 1.
+Download [`recruiter-outbound-engine.skill`](https://github.com/nathanpelc/recruiter-outbound-engine/raw/main/dist/recruiter-outbound-engine.skill) from the `dist/` folder, then upload it under **Settings → Capabilities → Skills**. The daily schedule needs a computer that can run Python, so Claude Code is the better fit for Stage 1.
 
 Then install the Python dependencies once:
 
